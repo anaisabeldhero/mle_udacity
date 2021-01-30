@@ -69,9 +69,10 @@ This library runs in python 3. You could face some problems and errors if you ha
 
 This project contains different scripts and folders organized in the following way: 
 
-1. `dashapp` folder holds the dashboard application for Prediction the stocks price. 
-2. `graphs` folder contains the images attached in the report.md or report.pdf
-3. `utils` folder with the functions used in the notebooks.
+1. `docs` folder includes proposal.pdf - the capstone proposal - and report.pdf - the capstone report.
+2. `dashapp` folder holds the dashboard application for Prediction the stocks price. 
+3. `graphs` folder contains the images attached in the report.md or report.pdf
+4. `utils` folder with the functions used in the notebooks.
 
 The analysis for this project has divided into 3 notebooks, please runs them in order to follow the report:
 
